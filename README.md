@@ -8,7 +8,7 @@
 
 ## Architecutre
 
-  ![image](https://user-images.githubusercontent.com/10368601/167567910-f24c21e2-bfed-417b-b3a5-b13d925e47dd.png)
+  ![image](https://user-images.githubusercontent.com/10368601/167568142-a2ef5979-63a1-4af5-9aaa-e5894630c49e.png)
 
   https://docs.google.com/drawings/d/1SlkG6jSarXDBTbgdaYI8ZxMI4l7kWQlRJXz1dyK6ZBI/edit?usp=sharing
 
