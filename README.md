@@ -2,9 +2,14 @@
 
 ## Goal
 
-  - Periodically collects economical indices from various sources.
+  - Periodically collects economical indices from various sources especially from Korea.
     - https://unipass.customs.go.kr/ets/index.do
-  - Visualize these indices nicely on web browser
+  - Visualize these indices nicely for web browsers on PC or mobile devices.
+
+## Caveats
+
+  - It's a personal project.
+  - Source code, directory, or file name may contain Korean.
 
 ## Architecutre
 
